@@ -1,3 +1,4 @@
 Organizacion del festiva musical anual
 Confirmar la participacion de las bandas
 Definir la ubicacion del escenario principal
+Organizar la venta anticipada de entradas
